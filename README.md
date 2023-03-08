@@ -1,4 +1,7 @@
-### 💫 About Me:
+#### 💫 **About Me:**
+
+<h4> 💫 About me:</h4>
+
 <p align="left">I’m Matías, a Software Engineering student at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>.</p>
 
 
