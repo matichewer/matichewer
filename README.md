@@ -1,6 +1,4 @@
-#### 💫 **About Me:**
-
-<h4> 💫 About me:</h4>
+### 💫 **About Me:**
 
 <p align="left">I’m Matías, a Software Engineering student at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>.</p>
 
@@ -13,8 +11,8 @@
 
 ### 📊 GitHub Stats:
 <a href="https://github.com/MatiChewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=true&hide_border=false&theme=omni" width="49%" />
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=omni" width="49%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=true&hide_border=false&theme=react"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=react"/>
 </a>
 
 
@@ -23,6 +21,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=matichewer&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 -->
 
-<br/><br/>
+---
 
-<p href="https://github.com/MatiChewer" align="center"><img src="https://komarev.com/ghpvc/?username=MatiChewer&style=for-the-badge&label=PROFILE+VIEWS&color=blue"></img></p>
+<p href="https://github.com/MatiChewer" align="center"><img src="https://komarev.com/ghpvc/?username=MatiChewer&style=for-the-badge&label=PROFILE+VIEWS&color=3e97f0"></img></p>
