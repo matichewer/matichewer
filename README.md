@@ -1,7 +1,7 @@
 
 <h3 align="center"> Hi there 👋  </h3>
 
-<p align="center">I’m Matias, a Software Engineering student at the <a href="https://uns.edu.ar/">Universidad Nacional del Sur</a>.</p>
+<p align="center">I’m Matías, a Software Engineering student at the <a href="https://uns.edu.ar/">Universidad Nacional del Sur</a>.</p>
 
 
 ___
