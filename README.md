@@ -3,7 +3,9 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matichewer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matichewer) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schwerdt.matias@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/matichewer) 
 
 
 ### 📊 GitHub Stats:
@@ -13,21 +15,11 @@
 </a>
 
 
+<!--
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matichewer&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+-->
 
+<br/><br/>
 
----
 <p href="https://github.com/MatiChewer" align="center"><img src="https://komarev.com/ghpvc/?username=MatiChewer&style=for-the-badge&label=PROFILE+VIEWS&color=blue"></img></p>
-
-
-<!-- 
-
-[![](https://visitcount.itsvg.in/api?id=matichewer&icon=5&color=7)](https://visitcount.itsvg.in)
-
-Proudly created with GPRM ( https://gprm.itsvg.in )
-
-
-<p href="https://github.com/MatiChewer" align="center"><img src="https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true&locale=en&custom_title=My+stats+on+Github"></img></p>
-<p href="https://github.com/MatiChewer" align="center"><img src="https://komarev.com/ghpvc/?username=MatiChewer&style=for-the-badge&label=PROFILE+VIEWS&color=blue"></img></p>
- -->
