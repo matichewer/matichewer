@@ -1,36 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-![](https://komarev.com/ghpvc/?username=matichewer&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
-
-![Chewer](https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true&locale=en&custom_title=My+stats)
-
-  
-  
-<!-- 
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-
-
-&locale=en
-
--->
-
-
-
-
+<p href="https://github.com/MatiChewer" align="center"><img src="https://komarev.com/ghpvc/?username=MatiChewer&style=for-the-badge&label=PROFILE+VIEWS&color=blue"></img></p>
 
 <!--
-**matichewer/matichewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=matichewer&color=blue&style=for-the-badge&label=PROFILE+VIEWS) -->
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+I’m Matias, a Software Engineering student at the [Universidad Nacional del Sur](https://uns.edu.ar/).
+
+
+
+![Chewer](https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true&locale=en&custom_title=My+stats+on+Github)
+
