@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=matichewer&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=matichewer&color=blue&style=for-the-badge)
 
 
 ![Chewer's GitHub stats](https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true)
