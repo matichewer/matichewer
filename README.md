@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I’m Matías, a Software Engineering student at Universidad Nacional del Sur.
+<p align="left">I’m Matías, a Software Engineering student at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>.</p>
 
 
 ### 🌐 Socials:
