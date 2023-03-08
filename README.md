@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=matichewer&color=blue&style=for-the-badge)
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=matichewer&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-![Chewer's GitHub stats](https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=matichewer&custom_title=My+stats+on+Github&show_icons=true&theme=dark&include_all_commits=true)
 
+
+<!-- 
+&locale=en
+
+-->
 
 
 
