@@ -4,10 +4,14 @@
 ![](https://komarev.com/ghpvc/?username=matichewer&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-![](https://github-readme-stats.vercel.app/api?username=matichewer&custom_title=My+stats+on+Github&show_icons=true&theme=dark&include_all_commits=true)
+![Chewer](https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true&locale=en&custom_title=My+stats)
 
-
+  
+  
 <!-- 
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+
+
 &locale=en
 
 -->
