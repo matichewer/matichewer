@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=matichewer&show_icons=true&theme=radical)
+![Chewer's GitHub stats](https://github-readme-stats.vercel.app/api?username=matichewer&show_icons=true&theme=dark&include_all_commits=true)
 
 
 
