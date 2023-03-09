@@ -10,8 +10,13 @@
 
 
 ## 📊 GitHub Stats:
+<!--
 <a href="https://github.com/MatiChewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
+-->
+<a href="https://github.com/MatiChewer">
+  <img align="center" src="https://github-readme-stats-ir3cp73po-matichewer.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
+
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=react" width="49%" />
 </a>
 
