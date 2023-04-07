@@ -18,10 +18,10 @@
 <!-- next link work becouse use my personal access token (PAT) in the fork repo https://github.com/matichewer/github-readme-stats
 <a href="https://github.com/MatiChewer">
   <img align="center" src="https://github-readme-stats-git-master-matichewer.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
+ -->
 
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=react" width="49%" />
 </a>
- -->
 
 <!--
 ### 🏆 GitHub Trophies
