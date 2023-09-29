@@ -10,17 +10,23 @@
 
 
 ## 📊 GitHub Stats:
-<!-- If it doesn't work, it's because the maximum number of requests to the vercel api has been reached -->
+<!-- If it doesn't work, it's because the maximum number of requests to the vercel api has been reached 
 <a href="https://github.com/MatiChewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
-
+-->
 
 <!-- next link work becouse use my personal access token (PAT) in the fork repo https://github.com/matichewer/github-readme-stats 
 <a href="https://github.com/MatiChewer">
-  <img align="center" src="https://github-readme-stats-git-master-matichewer.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" /> -->
+  <img align="center" src="https://github-readme-stats-git-master-matichewer.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=MatiChewer&show_icons=true&theme=transparent&custom_title=Matias's+Github+Stats)
 
 
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=react" width="49%" />
+
+<!-- dont work
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=react" width="49%" /> 
+-->
 </a>
 
 <!--
