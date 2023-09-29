@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats-git-master-matichewer.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=MatiChewer&show_icons=true&theme=transparent&custom_title=Matias's+Github+Stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&show_icons=true&theme=transparent&custom_title=Matias's+Github+Stats" />
 
 
 
