@@ -1,7 +1,7 @@
 ## 💫 **About Me:**
 
 <p align="left">I’m Matías, a Software Engineering student at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>.</p>
-You can see my portfolio on https://portfolio.chewer.net
+You can see my portfolio at https://portfolio.chewer.net
 
 
 ## 🌐 Socials:
