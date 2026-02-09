@@ -8,32 +8,3 @@ You can see my portfolio at https://portfolio.chewer.net
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasschwerdt/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schwerdt.matias@gmail.com)
 
-
-## 📊 GitHub Stats:
-<!-- If it doesn't work, it's because the maximum number of requests to the vercel api has been reached 
-<a href="https://github.com/MatiChewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
--->
-
-<!-- next link work becouse use my personal access token (PAT) in the fork repo https://github.com/matichewer/github-readme-stats 
-<a href="https://github.com/MatiChewer">
-  <img align="center" src="https://github-readme-stats-git-master-matichewer.vercel.app/api?username=MatiChewer&custom_title=Matias's+Github+Stats&show_icons=true&locale=en&include_all_commits=false&count_private=true&hide_border=false&theme=react" width="46%" />
--->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiChewer&show_icons=true&theme=transparent&custom_title=Matias's+Github+Stats" />
-
-
-
-<!-- dont work
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiChewer&hide_border=false&theme=react" width="49%" /> 
--->
-</a>
-
-<!--
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matichewer&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
--->
-
----
-
-<p href="https://github.com/MatiChewer" align="center"><img src="https://komarev.com/ghpvc/?username=MatiChewer&style=for-the-badge&label=PROFILE+VIEWS&color=3e97f0"></img></p>
